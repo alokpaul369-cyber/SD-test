@@ -1,0 +1,27 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+*.versionsBackup
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and local config
+*.log
+logs/
+*.local.properties
+application-local.yml
+.env
